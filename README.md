@@ -43,6 +43,16 @@ Major Data Categories
 3. Paid Owned, Earned Media.
 4. External Factors.
 
+Data Exploration Tips
+1. Chart your data thoroughly across periods and cross section(regions).
+2. Compute the univariate statistics:
+eg. Mean, Variance, Standard Deviation, Quartiles..
+3. Compute Correlation function by cross section.
+4. Compare Periods
+eg. Has there been a change in the media laydown year to year.
+5. Investiagate lagged effects and carryover using the correlation function.
+6. Graph your data using scatter plots.
+
 
 
 
