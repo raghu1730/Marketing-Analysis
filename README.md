@@ -8,3 +8,15 @@ In thought process: "Half the money I spend on advertising is wasted; the troubl
 The marketing mix modelling enables use to look more closely to the budget allocation on different segments of Business, MMM (Marketing mix modeling) is about applying statistical techniques to historical data capable of understanding and braking down the contributions of every single factors. It is capable of understanding, what are the Drivers of Sales, Understand & Measure ROI every single channel.
 
 We can also take his information to predict future performance and optimizing the budget weather your want to achieve to specific target also knowing minimum budger that we need to be allocated in order to capable of reaching that targer or you have specific budget in mind and you want to know what is optimum allocation of budget in order to achieve max return. 
+
+Building Blocks-MMM
+-> Measure
+          ->Sales Drivers.
+          ->Return on Investment(ROI)
+->Forecast
+          ->Sales Reponse to different media budgets.
+          ->Scenario Evaluation.
+->Optimize
+          ->Optimal media budget allocation.
+          ->Media laydown optimization.
+          ->Optimal budget to reach a specific target.
