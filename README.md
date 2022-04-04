@@ -21,12 +21,11 @@ Building Blocks-MMM
           ->Media laydown optimization.
           ->Optimal budget to reach a specific target.
 
-Work-Flow
 
-Data Analytics
+Data Analytics Work-Flow:
 Business Understanding--Data Understanding--Data Prepration--Modelling--Evaluation--Deployment.
 
-MMM Work Flow
+MMM Work Flow:
 Project Kick-off--Data Collection & Understanding--Data Processing--Model Building--Results & Recommendations
 
 
