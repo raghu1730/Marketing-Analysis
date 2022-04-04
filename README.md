@@ -37,6 +37,11 @@ The data request should be as comprehensive and as specific as possible. It shou
 3. Format needed: eg. by week, by campagin.
 4. Data Owner: eg media agency.
 
+Major Data Categories
+1. Response Data KPI
+2. Marketing Activities
+3. Paid Owned, Earned Media.
+4. External Factors.
 
 
 
