@@ -29,5 +29,18 @@ MMM Work Flow:
 Project Kick-off--Data Collection & Understanding--Data Processing--Model Building--Results & Recommendations
 
 
+Data Required in MMM
+
+The data request should be as comprehensive and as specific as possible. It should be detail:
+1. Data Category: eg. Media-tv
+2. Description: Tv spend and GRP for the last 3 years.
+3. Format needed: eg. by week, by campagin.
+4. Data Owner: eg media agency.
+
+
+
+
+
+
 
 
