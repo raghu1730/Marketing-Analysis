@@ -10,13 +10,13 @@ The marketing mix modelling enables use to look more closely to the budget alloc
 We can also take his information to predict future performance and optimizing the budget weather your want to achieve to specific target also knowing minimum budger that we need to be allocated in order to capable of reaching that targer or you have specific budget in mind and you want to know what is optimum allocation of budget in order to achieve max return. 
 
 Building Blocks-MMM
--> Measure
+ 1.Measure
           ->Sales Drivers.
           ->Return on Investment(ROI)
-->Forecast
+2.Forecast
           ->Sales Reponse to different media budgets.
           ->Scenario Evaluation.
-->Optimize
+3.Optimize
           ->Optimal media budget allocation.
           ->Media laydown optimization.
           ->Optimal budget to reach a specific target.
