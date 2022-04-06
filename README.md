@@ -54,7 +54,12 @@ eg. Has there been a change in the media laydown year to year.
 5. Investiagate lagged effects and carryover using the correlation function.
 6. Graph your data using scatter plots.
 
-
+Importance of Charting and Processing
+1. Understanding the data is fundamental to any analysis.
+2. No Modeling should be done before you thoroughly understand the data you have.
+3. Always come up with a list of hypotheses to test(base on project objectivs).
+a. Transform your data accordingly.
+b. Use the regression model as a tool to confirm/refuge the hypotheses that you have made from the data 
 
 
 
