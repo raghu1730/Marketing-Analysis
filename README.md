@@ -28,6 +28,7 @@ Business Understanding--Data Understanding--Data Prepration--Modelling--Evaluati
 MMM Work Flow:
 Project Kick-off--Data Collection & Understanding--Data Processing--Model Building--Results & Recommendations
 
+![image](https://user-images.githubusercontent.com/102865697/162008481-9d4a5e10-f46b-4405-88a4-aecbdb92da50.png)
 
 Data Required in MMM
 
